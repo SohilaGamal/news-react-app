@@ -1,0 +1,16 @@
+.homePage{
+    width: 90%;
+    margin: auto;
+    padding: 30px 0;
+}
+
+.homePage .MuiTypography-root{
+    font-size: 16px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.homePage .search{
+    margin-bottom: 20px;
+}
